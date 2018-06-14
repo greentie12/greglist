@@ -1,0 +1,29 @@
+body * {
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+	height: 60px;
+	background-color: #E8E8E8;
+	position: fixed;
+	width: 100%;
+}
+
+.head-title {
+	display: inline-block;
+	font-size: 20px;
+}
+
+.nav-bar {
+	position: absolute;
+}
+
+.links {
+	text-align: right;
+}
+
